@@ -1,0 +1,2 @@
+rootProject.name='koyaku'
+include ':app'
